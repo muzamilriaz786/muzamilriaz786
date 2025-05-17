@@ -32,8 +32,8 @@ Welcome to my GitHub profile! I’m passionate about building impactful software
 ---
 
 ## 📌 **Featured Projects**
-1. [Project Name](https://github.com/your-repo) - Short description.  
-2. [Project Name](https://github.com/your-repo) - Short description.  
+1. [MyProfile](https://github.com/your-repo](https://github.com/muzamilriaz786/myportfolio) - 
+
 
 ---
 
