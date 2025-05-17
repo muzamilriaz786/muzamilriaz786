@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I’m passionate about building impactful software
 ---
 
 ## 📌 **Featured Projects**
-[Project Name](https://github.com/your-repo)
+[MyPortfolio](https://github.com/muzamilriaz786/myportfolio)
 
 
 ---
